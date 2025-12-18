@@ -1,13 +1,12 @@
 # AI Tutor - Staff-PDF Grounded Q&A System
 
-A production-ready web application for university settings that allows staff to upload PDFs and students to ask questions strictly grounded in those materials using Google Gemini.
+A production-ready web application for university settings that allows staff to upload PDFs and students to ask questions strictly grounded in those materials.
 
 ## Tech Stack
 
 - **Frontend**: React 18 (Vite), TypeScript, Tailwind CSS
 - **Backend**: ASP.NET Core 8.0 Web API, EF Core, MySQL
 - **Indexer**: Python FastAPI, FAISS, SentenceTransformers
-- **AI**: Google Gemini API
 
 ## Prerequisites
 
