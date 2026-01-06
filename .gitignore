@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.local
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+**/node_modules/
+
+
+# Ignore all files inside staff_pdfs
+indexer/data/staff_pdfs/*
+
+# BUT allow a placeholder file
+!indexer/data/staff_pdfs/.gitkeep
