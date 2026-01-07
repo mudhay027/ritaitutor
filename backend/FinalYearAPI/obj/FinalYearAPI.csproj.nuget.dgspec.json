@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data science\\Ai Teacher\\ritaitutor\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj": {}
+    "D:\\Data science\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj": {}
   },
   "projects": {
-    "D:\\Data science\\Ai Teacher\\ritaitutor\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj": {
+    "D:\\Data science\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data science\\Ai Teacher\\ritaitutor\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj",
+        "projectUniqueName": "D:\\Data science\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj",
         "projectName": "FinalYearAPI",
-        "projectPath": "D:\\Data science\\Ai Teacher\\ritaitutor\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj",
+        "projectPath": "D:\\Data science\\ai-tutor\\backend\\FinalYearAPI\\FinalYearAPI.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Data science\\Ai Teacher\\ritaitutor\\ai-tutor\\backend\\FinalYearAPI\\obj\\",
+        "outputPath": "D:\\Data science\\ai-tutor\\backend\\FinalYearAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

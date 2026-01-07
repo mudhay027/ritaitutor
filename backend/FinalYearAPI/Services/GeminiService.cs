@@ -20,8 +20,8 @@ public class GeminiService
     {
         if (string.IsNullOrEmpty(_apiKey)) return "Error: Gemini API Key not configured.";
 
-        // Use gemini-1.5-flash-latest with v1beta endpoint
-        var url = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={_apiKey}";
+        // Use gemini-2.5-flash with v1 endpoint (verified via ListModels API)
+        var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key={_apiKey}";
 
         var requestBody = new
         {
